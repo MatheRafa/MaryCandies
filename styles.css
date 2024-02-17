@@ -14,7 +14,7 @@ body {
 }
 
 .logo {
-    max-width: 100%;
+    max-width: 85%;
     height: auto;
     margin-bottom: 20px;
 }
@@ -38,4 +38,14 @@ body {
 .social-icons img {
     max-width: 50px; /* Ajuste o tamanho conforme necessário */
     height: auto;
+}
+
+.footer {
+    text-align: center;
+    font-size: 14px;
+    color: #dbcccc;
+    position: absolute; /* Posicionamento absoluto para fixar no final da página */
+    bottom: 0;
+    width: 100%;
+    /* padding: 10px; */
 }
