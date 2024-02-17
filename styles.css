@@ -10,7 +10,7 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh; /* 100% da altura da viewport */
-    background: url('bg.jpg') center/cover no-repeat; /* Substitua pela sua imagem de fundo */
+    background: url('bgMary.png') center/cover no-repeat; /* Substitua pela sua imagem de fundo */
 }
 
 .logo {
